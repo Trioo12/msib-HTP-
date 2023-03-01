@@ -1,0 +1,39 @@
+<<Cara kerja>>
+JavaScript pada dasarnya merupakan bahasa pemrograman komputer yang berjalan di dalam browser Internet (browser juga dikenal sebagai klien Web karena terhubung ke server Web untuk mengunduh halaman) dan cara kerja JavaScript-pun menarik.
+Di dalam halaman Web normal Anda menempatkan beberapa kode JavaScript. Saat browser memuat halaman, browser memiliki penerjemah internal yang membaca kode JavaScript yang ditemukan di halaman dan menjalankannya. Desainer halaman web menggunakan JavaScript dalam berbagai cara. Salah satu yang paling umum adalah melakukan validasi bidang dalam formulir. Banyak situs Web mengumpulkan informasi dari pengguna dalam bentuk online, dan JavaScript dapat membantu memvalidasi entri. Misalnya, pemrogram mungkin memvalidasi bahwa usia seseorang yang dimasukkan ke dalam formulir jatuh antara 1 dan 120.
+Cara lain web desainer menggunakan JavaScript adalah dengan membuat kalkulator.
+
+Berikut adalah beberapa contoh:
+
+RPN Calculator
+RPN adalah singkatan dari “Reverse Polish Notation,” metode bebas tanda kurung untuk melakukan perhitungan. Di Amerika Serikat metode ini telah dipopulerkan oleh Hewlett-Packard Corporation1, yang menjual jajaran kalkulator RPN. Metode ini bergantung pada setumpuk nilai sebagai prinsip pengorganisasiannya. Ketika sebuah angka dimasukkan, entri sebelumnya “dibangkitkan” di tumpukan, sehingga beberapa nilai dapat disimpan. Ketika operasi matematika dilakukan, itu dilakukan pada nilai terbaru (atau nilai, jika diperlukan lebih dari satu).
+Misalnya, untuk membagi 80 dengan 81, buat entri berikut:
+
+80
+
+[Enter]
+
+81
+
+/
+
+Pada awalnya, metode ini mungkin tampak rumit, tetapi seiring waktu seseorang mulai melihat nilainya yang besar — ​​seseorang tidak perlu khawatir tentang urutan prioritas aljabar, karena urutan operasi yang dilakukan sepenuhnya dikendalikan oleh urutan nilai yang dimasukkan. dan operasi yang dilakukan.
+Pada beberapa masalah, urutan prioritas aljabar dapat diandalkan untuk memberikan hasil yang benar. Tetapi banyak masalah yang sulit untuk dinyatakan dengan menggunakan prioritas default. Dalam contoh berikut ini, Anda ingin mengalikan hasil dari dua penjumlahan ((a + b ) * (c + d)). Jika Anda memasukkan masalah ini ke dalam kalkulator aljabar, Anda akan mendapatkan a + (b * c) + d, bukan (a + b) * (c + d), seperti yang Anda harapkan, karena perkalian dilakukan sebelum penambahan.
+Untuk menyelesaikan masalah ini pada kalkulator aljabar, Anda harus hati-hati menempatkan tanda kurung di antara operasi (dengan asumsi kalkulator Anda memiliki tanda kurung). Tetapi dalam notasi RPN, masalahnya mudah diselesaikan:
+
+a (vaue)
+
+b (value)
+
++
+
+c (value)
+
+[Enter]
+
+d (value)
+
++
+
+*
+
