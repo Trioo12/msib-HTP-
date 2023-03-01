@@ -1,0 +1,7 @@
+<<Cara kerja bahasa pemrograman PHP>>
+
+Berikut Merupakan cara kerja Bahasa pemograman PHP :
+
+1. Tahap Pertama, web browser mengirim permintaan HTTP ke web server, sebagai contohnya ialah file index.php.
+2. Tahap Kedua, PHP yang berada didalam web server akan memproses PHP untuk menghasilkan file HTML.
+3. ahap terakhir, web server akan mengirim file HTML kembali ke web browser.

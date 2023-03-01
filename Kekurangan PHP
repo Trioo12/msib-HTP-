@@ -1,0 +1,8 @@
+<<Kelebihan dan Kekurangan bahasa pemrograman PHP>>
+
+1. Persaingan yang ketat
+PHP memiliki Komunitas yang sangat besar, hal itu justru membawa persaingan yang ketat . Para web developer akan bertambah setiap harinya.
+2. Mudah Dibajak
+PHP memiliki sifat interprenter, source code dari aplikasi PHP dapat dengan mudah dimodifikasi dan diubah fungsinya. Sehingga PHP tidak cocok untuk pembuatan aplikasi, jika ada source code yang ingin dirahasiakan.
+3. Tidak dilengkapi dengan Tipe Data
+PHP tidak mempunyai tipe data, sehingga sering muncul error-error atau bug yang tidak berkaitan dengan standar PHP. Sehingga diperlukan pengalaman pengembang web untuk memperbaiki eror yang terjadi.
