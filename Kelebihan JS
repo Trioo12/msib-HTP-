@@ -1,0 +1,9 @@
+<<Kelebihan>>
+1. Speed (kecepatan)
+JavaScript cenderung sangat cepat karena sering langsung dijalankan dalam browser setiap klien. Selama tidak memerlukan sumber daya dari luar, JavaScript tidak diperlambat oleh panggilan ke server backend. Juga, semua browser utama mendukung kompilasi JIT (tepat waktu) untuk JavaScript, artinya tidak perlu mengkompilasi kode sebelum menjalankannya.
+2. Simplicity (kesederhanaan)
+JavaScript relatif sederhana untuk dipelajari dan diterapkan. Sintaks JavaScript terinspirasi oleh Java dan relatif mudah dipelajari dibandingkan dengan bahasa populer lainnya seperti C++.
+3. Popularity (popularitas)
+JavaScript digunakan di mana saja di web. JavaScript ada di mana-mana di web, dan dengan munculnya Node.js, semakin banyak digunakan di backend. Ada banyak sumber daya untuk mempelajari JavaScript. Baik StackOverflow dan GitHub menunjukkan peningkatan jumlah proyek yang menggunakan JavaScript, dan daya tarik yang diperoleh dalam beberapa tahun terakhir diperkirakan akan meningkat.
+4. Interoperability (interopabilitas)
+JavaScript bermain dengan baik dengan bahasa lain dan dapat digunakan dalam berbagai macam aplikasi. Tidak seperti PHP atau bahasa skrip lainnya, JavaScript dapat dimasukkan ke halaman web mana pun. JavaScript dapat digunakan dalam berbagai jenis aplikasi karena dukungan dalam bahasa lain seperti Pearl dan PHP.
